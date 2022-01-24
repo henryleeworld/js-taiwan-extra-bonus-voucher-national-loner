@@ -6,7 +6,7 @@ $(function() {
         $('#extra-bonus-voucher-table').DataTable({
             data: result,
             language: {
-                url: 'https://cdn.datatables.net/plug-ins/1.11.3/i18n/zh_Hant.json',
+                url: 'https://cdn.datatables.net/plug-ins/1.11.4/i18n/zh_Hant.json',
             },
             order: [
                 [0, 'asc']
